@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5277">
+      <stop
+         style="stop-color:#7ab0cb;stop-opacity:1;"
+         offset="0"
+         id="stop5279" />
+      <stop
+         style="stop-color:#7ab0cb;stop-opacity:0;"
+         offset="1"
+         id="stop5281" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="440.62767"
+     inkscape:cy="767.97802"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     inkscape:window-x="1911"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5294" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#2a7cba;fill-opacity:1"
+       id="path5287"
+       sodipodi:sides="43"
+       sodipodi:cx="-325.71429"
+       sodipodi:cy="213.79076"
+       sodipodi:r1="325.71417"
+       sodipodi:r2="346.50443"
+       sodipodi:arg1="-0.23297924"
+       sodipodi:arg2="-0.15991895"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -8.7999825,138.59075 25.1687835,20.02327 -17.5968139,26.9212 21.9851579,23.47449 -21.32905007,24.0722 18.33295607,26.4254 -24.6066937,20.71014 14.2900201,28.81309 -27.3598894,16.90667 9.9425167,30.58668 -29.5299567,12.74288 5.383106,31.70837 -31.070643,8.30748 0.708964,32.15426 -31.949114,3.69503 -3.980291,31.91482 -32.14664,-0.99617 -8.58471,30.99518 -31.65903,-5.66615 -13.00616,29.41495 -30.49664,-10.21536 -17.15041,27.20776 -28.68429,-14.54685 -20.92912,24.42071 -26.26058,-18.56829 -24.26177,21.11315 -23.27716,-22.19399 -27.07732,17.35562 -19.79764,-25.34665 -29.31577,13.22817 -15.89615,-27.9591 -30.9294,8.8188 -11.65587,-29.97566 -31.88383,4.22146 -7.16717,-31.35332 -32.1587,-0.46584 -2.52572,-32.06275 -31.74817,-5.14323 2.16958,-32.08881 -30.66098,-9.71099 6.81862,-31.43097 -28.9203,-14.07177 11.32234,-30.10322 -26.56325,-18.13265 15.58475,-28.13387 -23.64003,-21.80705 19.51499,-25.56491 -20.21298,-25.01668 23.02931,-22.45106 -16.35512,-27.69312 26.05279,-18.85871 -12.14868,-29.779334 28.52101,-14.864426 -7.68331,-31.230845 30.38135,-10.553329 -3.05418,-32.0167285 31.59416,-6.0173056 1.64004,-32.1202309 32.1336,-1.353034 6.29931,-31.539146 31.98817,3.340074 10.82431,-30.285859 31.16096,7.961996 15.11862,-28.387082 29.66962,12.41422 19.09069,-25.88328 27.54592,16.60186 22.65589,-22.82783 24.83511,20.43565 25.73822,-19.28583 21.595,23.8339 28.27197,-15.3328 17.89463,26.724173 30.20316,-11.052973 13.81286,29.044861 31.49062,-6.537568 9.4367,30.746508 32.10691,-1.882829 4.85941,31.792849 32.038907,2.812039 0.178547,32.16158 31.288041,7.446975 -4.506118,31.844842 29.870327,11.92319 -9.094744,30.849388 27.8159799,16.145285 z"
+       inkscape:transform-center-x="-5.0045224"
+       inkscape:transform-center-y="-8.2632943"
+       transform="matrix(0.57636783,0,0,0.33425724,387.3519,206.13443)"
+       inkscape:export-filename="D:\wip\ruby\JRIceMan\public\images\servicebadge.png"
+       inkscape:export-xdpi="89.986832"
+       inkscape:export-ydpi="89.986832" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer2">
+    <text
+       xml:space="preserve"
+       style="font-size:35.37273026px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Harlow Solid Italic;-inkscape-font-specification:'Harlow Solid Italic, Oblique'"
+       x="219.74449"
+       y="223.56104"
+       id="text2987"
+       sodipodi:linespacing="125%"
+       transform="scale(0.92907937,1.0763343)"
+       inkscape:export-filename="D:\wip\ruby\JRIceMan\public\images\servicebadge.png"
+       inkscape:export-xdpi="89.986832"
+       inkscape:export-ydpi="89.986832"><tspan
+         sodipodi:role="line"
+         id="tspan2989"
+         x="219.74449"
+         y="223.56104"
+         style="font-size:35.37273026px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Harlow Solid Italic;-inkscape-font-specification:'Harlow Solid Italic, Oblique'">Milwaukee's premier</tspan><tspan
+         sodipodi:role="line"
+         x="219.74449"
+         y="267.77695"
+         id="tspan2991"
+         style="font-size:35.37273026px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Harlow Solid Italic;-inkscape-font-specification:'Harlow Solid Italic, Oblique'">ice and refrigeration vendor</tspan><tspan
+         sodipodi:role="line"
+         x="219.74449"
+         y="311.99286"
+         id="tspan2993"
+         style="font-size:35.37273026px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Harlow Solid Italic;-inkscape-font-specification:'Harlow Solid Italic, Oblique'">for over 30 years!</tspan></text>
+  </g>
+</svg>

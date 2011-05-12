@@ -1,0 +1,59 @@
+!!!
+%html
+  %head
+    %title JR Ice
+
+    %link{:rel => "stylesheet/less",
+            :type => "text/css",
+            :media => "screen, projection",
+            :href => "/styles/screen.css"}    
+    %link{:rel => "stylesheet/less",
+            :type => "text/css",
+            :media => "print",
+            :href => "/styles/print.css"}    
+    /[if lt IE 8]
+      %link{:rel => "stylesheet/less",
+              :type => "text/css",
+              :media => "screen, projection",
+              :href => "/styles/ie.css"}                
+    %link{:rel => "stylesheet/less",
+            :type => "text/css",
+            :href => "/styles/base.less"}
+    %link{:rel => "stylesheet",
+             :type => "text/css",
+             :href => "/scripts/jqueryui/css/cupertino/jquery-ui-1.8.9.custom.css"}
+
+    %script{:type => "text/javascript",
+            :src => "/scripts/jquery.min.js"}
+    %script{:type => "text/javascript",
+            :src => "/scripts/jqueryui/js/jquery-ui-1.8.9.custom.min.js"}
+    %script{:type => "text/javascript",
+            :src => "/scripts/jquery.cycle.all.min.js"}            
+    %script{:type => "text/javascript",
+            :src => "/scripts/less.min.js"}
+    %script{:type => "text/javascript",
+            :src => "/scripts/base.js"}
+
+  %body
+    %div.container
+      #header.span-24
+        .span-14
+          %img{:class => "logo", :src => "/images/badgev2.png", :alt => "Milwaukee's premier ice and refrigeration vendor for over 30 years!"}
+        .call-widget.span-10.last
+          <object type="application/x-shockwave-flash" data="https://clients4.google.com/voice/embed/webCallButton" width="230" height="85"><param name="movie" value="https://clients4.google.com/voice/embed/webCallButton" /><param name="wmode" value="transparent" /><param name="FlashVars" value="id=1e9bd122f75c40dbe85fef110321519c58defa51&style=0" /></object>          
+          .contact-panel
+            %h2 Contact us to get started today
+            %span.phone-number 414-555-1212 
+            %span.phone-number 414-555-1212
+            %span.phone-number 414-555-1212
+      .span-24.rotator
+        %img{:src => "/images/manitowochd.jpg", :alt => ""}
+        %img{:src => "/images/manitowoc.jpg", :alt => ""}
+        %img{:src => "/images/hoshizaki.jpg", :alt => ""}        
+      :javascript
+        $('div.rotator').cycle({
+          fx:     'fade',
+          speed:   300,
+          timeout: 4000
+        });          
+      = yield
